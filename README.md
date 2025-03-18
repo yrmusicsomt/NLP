@@ -1,6 +1,6 @@
 # Natural Language Processing Project
 
-This project focuses on classifying Yelp reviews as either 1-star or 5-star categories based on the textual content of the reviews. The classification task leverages the Yelp Review Dataset from Kaggle. Below, you'll find an overview of the dataset, the exploratory data analysis (EDA), and the modeling pipeline used to achieve this goal.
+This project focuses on classifying Yelp reviews as either 1 or 5-star categories based on the textual content of the reviews. The classification task leverages the Yelp Review Dataset from Kaggle. Below, you'll find an overview of the dataset, the exploratory data analysis (EDA), and the modeling pipeline used to achieve this goal.
 
 ---
 
